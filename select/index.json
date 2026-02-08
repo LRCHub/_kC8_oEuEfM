@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Superfly『99』×『ドクターX』MV~drama ver.~",
+  "base_artist": "Superfly",
+  "createdAt": "2026-02-08T07:32:58.229720Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beautiful",
+      "artist": "Superfly",
+      "has_synced": false,
+      "path": "select/pl_01_Beautiful_Superfly.txt"
+    }
+  ]
+}
